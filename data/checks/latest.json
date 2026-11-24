@@ -1,0 +1,112 @@
+{
+ "generated": "2026-11-24T13:50:18Z",
+ "latest": {
+  "pravo-karelia|russia/karelia/acts": {
+   "attempt": 1,
+   "audit": {
+    "examples": [],
+    "match_neither": 0,
+    "match_new": 2,
+    "match_old": 0,
+    "method": "each sampled entry's own record on the portal (/api/Document?eoNumber=...), its title, number and date signed against the listing's",
+    "sampled": 2
+   },
+   "census": {
+    "checked": 1398,
+    "current": 1383,
+    "gone": 0,
+    "held": 1383,
+    "newest_in_repo": "2026-10-26",
+    "pending": 15,
+    "repo": 1383,
+    "source_in_scope": 1398
+   },
+   "check_id": "ru-pravo-karelia-20261124T134457Z",
+   "commits": {
+    "count": 5,
+    "from": "8f4c0decdd3fa89c67b624a65114d3194bb0ea55",
+    "to": "7e3522d9beda16d703927e52439eb1d9d2fa9d76"
+   },
+   "corpus": "russia/karelia/acts",
+   "error": null,
+   "finished": "2026-11-24T13:50:18Z",
+   "flags": [],
+   "gap": 0,
+   "note": "publication.pravo.gov.ru, block region10: 1398 law-type documents listed (every page read); 1383 held here; 15 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "changed",
+   "published": {
+    "added": [
+     "1000202611160006",
+     "1000202611160007",
+     "1000202611190005",
+     "1000202611190006",
+     "1000202611200001",
+     "1000202611230004",
+     "1000202611230005",
+     "1000202611230006",
+     "1000202611230007",
+     "1000202611230009",
+     "1000202611230010",
+     "1000202611230011",
+     "1000202611230012",
+     "1000202611230013",
+     "1000202611230014"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 10,
+   "runner": "lawwatch russia (65e3dde363)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [
+     "1000202611160006",
+     "1000202611160007",
+     "1000202611190005",
+     "1000202611190006",
+     "1000202611200001",
+     "1000202611230004",
+     "1000202611230005",
+     "1000202611230006",
+     "1000202611230007",
+     "1000202611230009",
+     "1000202611230010",
+     "1000202611230011",
+     "1000202611230012",
+     "1000202611230013",
+     "1000202611230014"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "1398 law-type documents in block region10; newest published 2026-11-23",
+   "source": "pravo-karelia",
+   "started": "2026-11-24T13:44:57Z",
+   "unexplained": 0,
+   "update": {
+    "append": {
+     "commits": 4,
+     "corrections": null,
+     "extended_acts": [
+      "zakony-2026"
+     ],
+     "new_acts": []
+    },
+    "parts": [
+     "95-watch-20261124-001.json"
+    ]
+   },
+   "verify": {
+    "cycle_days": 1,
+    "examples": [],
+    "held": 13,
+    "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
+    "ok": true,
+    "swept": 13,
+    "versions_checked": 354,
+    "versions_differ": 0
+   }
+  }
+ },
+ "schema": "lexifina-check/1"
+}
