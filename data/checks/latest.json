@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T13:50:18Z",
+ "generated": "2026-11-25T06:59:43Z",
  "latest": {
   "pravo-karelia|russia/karelia/acts": {
    "attempt": 1,
@@ -13,45 +13,25 @@
    },
    "census": {
     "checked": 1398,
-    "current": 1383,
+    "current": 1398,
     "gone": 0,
-    "held": 1383,
-    "newest_in_repo": "2026-10-26",
-    "pending": 15,
-    "repo": 1383,
+    "held": 1398,
+    "newest_in_repo": "2026-11-23",
+    "pending": 0,
+    "repo": 1398,
     "source_in_scope": 1398
    },
-   "check_id": "ru-pravo-karelia-20261124T134457Z",
-   "commits": {
-    "count": 5,
-    "from": "8f4c0decdd3fa89c67b624a65114d3194bb0ea55",
-    "to": "7e3522d9beda16d703927e52439eb1d9d2fa9d76"
-   },
+   "check_id": "ru-pravo-karelia-20261125T053414Z",
+   "commits": null,
    "corpus": "russia/karelia/acts",
    "error": null,
-   "finished": "2026-11-24T13:50:18Z",
+   "finished": "2026-11-25T05:36:21Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region10: 1398 law-type documents listed (every page read); 1383 held here; 15 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region10: 1398 law-type documents listed (every page read); 1398 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "1000202611160006",
-     "1000202611160007",
-     "1000202611190005",
-     "1000202611190006",
-     "1000202611200001",
-     "1000202611230004",
-     "1000202611230005",
-     "1000202611230006",
-     "1000202611230007",
-     "1000202611230009",
-     "1000202611230010",
-     "1000202611230011",
-     "1000202611230012",
-     "1000202611230013",
-     "1000202611230014"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -59,42 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "1000202611160006",
-     "1000202611160007",
-     "1000202611190005",
-     "1000202611190006",
-     "1000202611200001",
-     "1000202611230004",
-     "1000202611230005",
-     "1000202611230006",
-     "1000202611230007",
-     "1000202611230009",
-     "1000202611230010",
-     "1000202611230011",
-     "1000202611230012",
-     "1000202611230013",
-     "1000202611230014"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1398 law-type documents in block region10; newest published 2026-11-23",
    "source": "pravo-karelia",
-   "started": "2026-11-24T13:44:57Z",
+   "started": "2026-11-25T05:34:14Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 4,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
