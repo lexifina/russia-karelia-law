@@ -3282,12 +3282,21 @@
     },
     {
      "from": "2026-11-23",
-     "to": null,
-     "status": "as captured",
+     "to": "2026-11-24",
+     "status": "replaced",
      "text_as_of": null,
      "units": 87,
      "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region10",
      "sha256": "66e5eeedda04868fc4cd147673fd9c4c16b3e9daadc4feff6c610c1620d0c223"
+    },
+    {
+     "from": "2026-11-25",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region10",
+     "sha256": "a71a8cb5cad33ce80bf24b46ebd7181e1e8aeeeab0ac5a6ba4ae6cf52fca9c82"
     }
    ]
   }

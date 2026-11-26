@@ -1,6 +1,6 @@
 # Republic of Karelia: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 21 versions, from 2026-01-27 (latest in force: 2026-11-23) · <http://publication.pravo.gov.ru/documents/block/region10>
+Законы 2026 · 22 versions, from 2026-01-27 (latest in force: 2026-11-25) · <http://publication.pravo.gov.ru/documents/block/region10>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -91,3 +91,4 @@
 | Закон № 3224-ЗРК | [3224-zrk.md](3224-zrk.md) | 1 | 2026-11-23 |
 | Закон № 3225-ЗРК | [3225-zrk.md](3225-zrk.md) | 1 | 2026-11-23 |
 | Закон № 3226-ЗРК | [3226-zrk.md](3226-zrk.md) | 1 | 2026-11-23 |
+| Закон № 3227-ЗРК | [3227-zrk.md](3227-zrk.md) | 1 | 2026-11-25 |
