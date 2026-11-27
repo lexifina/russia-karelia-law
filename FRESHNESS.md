@@ -6,8 +6,8 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Republic of Karelia: Official Internet Portal of Legal Information (region10) · `russia/karelia/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-26 05:31 UTC**.
-- Acts held here: 1 398; current at the source: 1 398; changed at the source since the version held here: 1; no longer at the source: 0.
+- The official source last read and every act held here checked against it: **2026-11-27 05:26 UTC**.
+- Acts held here: 1 399; current at the source: 1 399; changed at the source since the version held here: 0; no longer at the source: 0.
 - Not published: 0 (—); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.md). For programs: [data/checks/latest.json](data/checks/latest.json).

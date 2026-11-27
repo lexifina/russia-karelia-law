@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T06:16:39Z",
+ "generated": "2026-11-27T06:09:08Z",
  "latest": {
   "pravo-karelia|russia/karelia/acts": {
    "attempt": 1,
@@ -13,31 +13,25 @@
    },
    "census": {
     "checked": 1399,
-    "current": 1398,
+    "current": 1399,
     "gone": 0,
-    "held": 1398,
-    "newest_in_repo": "2026-11-23",
-    "pending": 1,
-    "repo": 1398,
+    "held": 1399,
+    "newest_in_repo": "2026-11-25",
+    "pending": 0,
+    "repo": 1399,
     "source_in_scope": 1399
    },
-   "check_id": "ru-pravo-karelia-20261126T053025Z",
-   "commits": {
-    "count": 2,
-    "from": "6da7025e6e4e2bfaaba735aa8375f30adcf67faf",
-    "to": "b45d7d473b987b8bba90126afd21a3db16e7fb4d"
-   },
+   "check_id": "ru-pravo-karelia-20261127T052558Z",
+   "commits": null,
    "corpus": "russia/karelia/acts",
    "error": null,
-   "finished": "2026-11-26T05:31:19Z",
+   "finished": "2026-11-27T05:26:30Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region10: 1399 law-type documents listed (every page read); 1398 held here; 1 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region10: 1399 law-type documents listed (every page read); 1399 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "1000202611250001"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -45,28 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "1000202611250001"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1399 law-type documents in block region10; newest published 2026-11-25",
    "source": "pravo-karelia",
-   "started": "2026-11-26T05:30:25Z",
+   "started": "2026-11-27T05:25:58Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261126-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
